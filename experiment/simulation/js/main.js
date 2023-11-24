@@ -35,7 +35,7 @@ function step1() {
 
 
 
-    myTimeout = setTimeout(myGreeting3, 1000);
+    myTimeout = setTimeout(myGreeting3, 1);
 
 
 }
@@ -381,7 +381,7 @@ function threeparts() {
     document.getElementById("gif9").style.visibility = "visible";
 
 
-    myTimeout8 = setTimeout(myGreeting8, 40000);
+    myTimeout8 = setTimeout(myGreeting8, 3000);
 
 }
 
@@ -398,16 +398,155 @@ function myStopFunction8() {
 }
 
 function step7() {
+    document.getElementById("Step7").style.visibility = "hidden";
 
-       
-   
-        
-        
-        
 
+    document.getElementById("Step7").querySelectorAll("*").forEach(function (element) {
+        element.style.visibility = "hidden";
+    });
+    
+    document.getElementById("Step8a").style.visibility = "visible";
+
+    document.getElementById("clickhere_b").style.visibility = "visible";     //to be changed to hidden
+
+
+    
 }
-
 // step 7 ends here
 
 
+//step 8a starts here
 
+
+function step8a() {
+    document.getElementById("Step8a").style.visibility = "hidden";
+
+    document.getElementById("Step8a").querySelectorAll("*").forEach(function (element) {
+        element.style.visibility = "hidden";
+    });
+
+    document.getElementById("Step8b").style.visibility = "visible";
+
+    
+    
+
+}
+
+// step 8a ends here
+
+// step 8b starts here
+
+function step8b() {
+    document.getElementById("Step8b").style.visibility = "hidden";
+
+    document.getElementById("Step8b").querySelectorAll("*").forEach(function (element) {
+        element.style.visibility = "hidden";
+    });
+
+    document.getElementById("Step8c").style.visibility = "visible";
+
+    
+    
+}
+
+// step 8b ends here
+
+// step 8c starts here
+
+function step8c() {
+    document.getElementById("Step8c").style.visibility = "hidden";
+
+    document.getElementById("Step8c").querySelectorAll("*").forEach(function (element) {
+        element.style.visibility = "hidden";
+    });
+
+    document.getElementById("Step9a").style.visibility = "visible";
+
+    
+    
+}
+
+// step 8c ends here
+
+// step 9a starts here
+
+function step9a() {
+    document.getElementById("Step9a").style.visibility = "hidden";
+
+    document.getElementById("Step9a").querySelectorAll("*").forEach(function (element) {
+        element.style.visibility = "hidden";
+    });
+
+    document.getElementById("Step9b").style.visibility = "visible";
+
+    
+    
+}
+
+// step 9a ends here
+
+// step 9b starts here
+
+function step9b() {
+    document.getElementById("Step9b").style.visibility = "hidden";
+
+    document.getElementById("Step9b").querySelectorAll("*").forEach(function (element) {
+        element.style.visibility = "hidden";
+    });
+
+    document.getElementById("Step9c").style.visibility = "visible";
+
+    
+    
+}
+
+// step 9b ends here
+
+// step 9c starts here
+
+function step9c() {
+    document.getElementById("Step9c").style.visibility = "hidden";
+
+    document.getElementById("Step9c").querySelectorAll("*").forEach(function (element) {
+        element.style.visibility = "hidden";
+    });
+
+    document.getElementById("Step9d").style.visibility = "visible";
+
+    
+    
+}
+
+// step 9c ends here
+
+// step 9d starts here
+
+function step9d() {
+    document.getElementById("Step9d").style.visibility = "hidden";
+
+    document.getElementById("Step9d").querySelectorAll("*").forEach(function (element) {
+        element.style.visibility = "hidden";
+    });
+
+    document.getElementById("Step10").style.visibility = "visible";
+
+    
+    
+}
+
+// step 9d ends here
+
+// last step starts here
+
+function step10() {
+    document.getElementById("Step10").style.visibility = "hidden";
+
+    document.getElementById("Step10").querySelectorAll("*").forEach(function (element) {
+        element.style.visibility = "hidden";
+    });
+
+    document.getElementById("laststep").style.visibility = "visible";
+
+    
+    
+}
