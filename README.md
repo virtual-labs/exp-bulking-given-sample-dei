@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Nihal saran das duggirala | Mechanical Engineering | Dayalbagh Educational Institute | nihalsarandasd@gmail.com | .
+2 | - | - | - | - | -
