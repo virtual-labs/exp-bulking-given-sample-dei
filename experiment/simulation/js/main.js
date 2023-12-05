@@ -26,7 +26,7 @@ function step1() {
     document.getElementById("trans3").style.visibility = "hidden";
     document.getElementById("trans2").style.visibility = "hidden";
     document.getElementById("arr1").style.visibility = "hidden";
-    document.getElementById("next2").style.visibility = "visible";                    // to be changed to hidden
+    document.getElementById("next2").style.visibility = "hidden";                    // to be changed to hidden
     document.getElementById("arr2").style.visibility = "hidden";
     document.getElementById("trans6").style.visibility = "hidden";
     document.getElementById("arr6").style.visibility = "hidden";
@@ -133,7 +133,7 @@ function clicktofill() {
 
 function myGreeting2() {
 
-    //   document.getElementById("next2").style.visibility = "visible";                     // to be changed to visible
+      document.getElementById("next2").style.visibility = "visible";                     // to be changed to visible
     document.getElementById("arrx2").style.visibility = "visible";                         // to be changed to visible
 
 
@@ -156,7 +156,7 @@ function step2() {
     document.getElementById("arr5").style.visibility = "hidden";
     document.getElementById("trans5").style.visibility = "hidden";
     document.getElementById("arrx3").style.visibility = "hidden";
-    document.getElementById("next3").style.visibility = "visible";                            // to be changed to hidden
+    document.getElementById("next3").style.visibility = "hidden";                            // to be changed to hidden
 }
 
 // step 2 ends here
@@ -204,7 +204,7 @@ function leveloff() {
 function myGreeting5() {
     document.getElementById("arrx3").style.visibility = "visible";
 
-    //  document.getElementById("next3").style.visibility = "visible";                           // to be changed to visible
+      document.getElementById("next3").style.visibility = "visible";                           // to be changed to visible
 
 
 
@@ -247,7 +247,7 @@ function step4() {
         document.getElementById("arr6").style.visibility = "visible";
         document.getElementById("png5").style.visibility = "visible";
         document.getElementById("arrx5").style.visibility = "hidden";
-        document.getElementById("next5").style.visibility = "visible";                              // to be changed to hidden
+        document.getElementById("next5").style.visibility = "hidden";                              // to be changed to hidden
 
 
 
@@ -274,7 +274,7 @@ function fillthecontainer() {
 
 function myGreeting6() {
 
-    //  document.getElementById("next5").style.visibility = "visible";    
+      document.getElementById("next5").style.visibility = "visible";    
     document.getElementById("arrx5").style.visibility = "visible";                      
 
 
@@ -302,7 +302,7 @@ function step5() {
 
 
 
-        document.getElementById("next6").style.visibility = "visible";                           // to be changed to hidden
+        document.getElementById("next6").style.visibility = "hidden";                           // to be changed to hidden
 
 
 
@@ -330,7 +330,7 @@ function fillwater() {
 
 function myGreeting7() {
 
-    //  document.getElementById("next6").style.visibility = "visible";   
+      document.getElementById("next6").style.visibility = "visible";   
     document.getElementById("arrx6").style.visibility = "visible";                
 
 
@@ -362,7 +362,7 @@ function step6() {
 
 
 
-        document.getElementById("next7").style.visibility = "visible";     //to be changed to hidden
+        document.getElementById("liftbeaker").style.visibility = "hidden";     //to be changed to hidden
        
         
         
@@ -374,7 +374,7 @@ function step6() {
 
 // step 7 starts here
 
-function threeparts() {
+function movebeaker() {
     document.getElementById("arr8").style.visibility = "hidden";
     document.getElementById("png7").style.visibility = "hidden";
     document.getElementById("trans8").style.visibility = "hidden";
@@ -387,7 +387,7 @@ function threeparts() {
 
 function myGreeting8() {
     document.getElementById("arrx7").style.visibility = "visible";
-    //  document.getElementById("next7").style.visibility = "visible";
+      document.getElementById("liftbeaker").style.visibility = "visible";
 
     myStopFunction8();
 }
@@ -405,15 +405,131 @@ function step7() {
         element.style.visibility = "hidden";
     });
     
-    document.getElementById("Step8a").style.visibility = "visible";
+    document.getElementById("Step7a").style.visibility = "visible";
 
-    document.getElementById("clickhere_b").style.visibility = "visible";     //to be changed to hidden
+    document.getElementById("bringrod1").style.visibility = "hidden";     //to be changed to hidden
+    document.getElementById("liftbeaker1").style.visibility = "hidden";
+    document.getElementById("arr8b").style.visibility = "hidden";
+    document.getElementById("arrx7a").style.visibility = "hidden";
 
 
     
 }
 // step 7 ends here
 
+// step 7a starts here
+function movingrod() {
+    document.getElementById("arr8a").style.visibility = "hidden";
+    document.getElementById("pngrod").style.visibility = "hidden";
+    document.getElementById("transrod").style.visibility = "hidden";
+    document.getElementById("rodgif").style.visibility = "visible";
+
+
+    myTimeout8 = setTimeout(myGreeting8a, 6000);
+
+}
+
+function myGreeting8a() {
+   
+    //  document.getElementById("next7").style.visibility = "visible";
+    document.getElementById("arr8b").style.visibility = "visible";
+    document.getElementById("liftbeaker1").style.visibility = "visible";
+
+    myStopFunction8a();
+}
+
+function myStopFunction8a() {
+    clearTimeout(myTimeout8a);
+
+}
+
+function liftbeaker1() {
+    document.getElementById("arr8b").style.visibility = "hidden";
+    document.getElementById("rodgif").style.visibility = "hidden";
+    document.getElementById("liftbeaker1").style.visibility = "hidden";
+    document.getElementById("beakergif").style.visibility = "visible"; 
+
+    myTimeout8 = setTimeout(myGreeting8b, 3000);
+
+
+}
+function myGreeting8b() {
+     document.getElementById("arrx7a").style.visibility = "visible";
+       document.getElementById("bringrod1").style.visibility = "visible";
+   
+     myStopFunction8b();
+ }
+ 
+ function myStopFunction8b() {
+     clearTimeout(myTimeout8b);
+ 
+ }
+
+ function step7a() {
+    document.getElementById("Step7a").style.visibility = "hidden";
+
+
+    document.getElementById("Step7a").querySelectorAll("*").forEach(function (element) {
+        element.style.visibility = "hidden";
+    });
+    
+    document.getElementById("Step7b").style.visibility = "visible";
+
+    document.getElementById("bringrod2").style.visibility = "hidden";     //to be changed to hidden
+    document.getElementById("arrx7b").style.visibility = "hidden"; 
+   
+}
+
+
+
+ // step 7a ends here
+
+
+ // step 7b starts here
+ function movingrod1() {
+    document.getElementById("arr8c").style.visibility = "hidden";
+    document.getElementById("pngrod1").style.visibility = "hidden";
+    document.getElementById("transrod1").style.visibility = "hidden";
+    document.getElementById("rodgif1").style.visibility = "visible";
+
+
+    myTimeout8c = setTimeout(myGreeting8c, 15000);
+
+}
+
+function myGreeting8c() {
+   
+      document.getElementById("bringrod2").style.visibility = "visible";
+   
+    document.getElementById("liftbeaker1").style.visibility = "visible";
+    document.getElementById("arrx7b").style.visibility = "visible";
+
+    myStopFunction8c();
+}
+
+function myStopFunction8c() {
+    clearTimeout(myTimeout8c);
+
+}
+
+
+function step7b() {
+    document.getElementById("Step7b").style.visibility = "hidden";
+
+
+    document.getElementById("Step7b").querySelectorAll("*").forEach(function (element) {
+        element.style.visibility = "hidden";
+    });
+    
+    document.getElementById("Step8a").style.visibility = "visible";
+
+    
+   
+}
+
+
+ 
+ 
 
 //step 8a starts here
 
