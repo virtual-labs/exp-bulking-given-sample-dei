@@ -666,3 +666,8 @@ function step10() {
     
     
 }
+
+function redirectToNewLink() {
+    // Replace 'https://www.example.com' with your desired URL
+    window.location.href = 'https://virtual-labs.github.io/exp-bulking-given-sample-dei/posttest.html';
+  }
