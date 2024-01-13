@@ -1,2 +1,2 @@
-## Experiment name
-## bulking of a given sample
+
+## Bulking of a given sample
