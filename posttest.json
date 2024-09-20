@@ -1,0 +1,136 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Coarse sand bulks ______ fine sand",
+      "answers": {
+        "a": "Lesser than",
+        "b": "More than",
+        "c": "Equal to ",
+        "d": "None of the above "
+      },
+      "explanations": {
+        "a": "Explanation 1<a href='https://www.youtube.com/watch?v=kCpG3_nbL0Y'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2 ",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Coarser is the sand, more will be the bulkage",
+      "answers": {
+        "a": "True",
+        "b": "False"
+        
+      },
+      "explanations": {
+        "a": "Explanation 1  ",
+        "b": "Explanation 2 <a href=''>here</a>"
+        
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "What shall be the percentage bulking of sand with respect to volume for 5% of moisture content? ",
+      "answers": {
+        "a": "25%",
+        "b": "30%",
+        "c": "15%",
+        "d": "20%"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 <a href='https://www.youtube.com/watch?v=kCpG3_nbL0Y'>here</a>",
+        "c": "Explanation 2 ",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+
+    {
+      "question": "Bulking of fine aggregate leads to ____ ",
+      "answers": {
+        "a": "Increase in strength of concrete ",
+        "b": "Increase in workability of concrete  ",
+        "c": "Increase in density of concrete ",
+        "d": "Increase in shrinkage of concrete "
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 <a href='https://www.youtube.com/watch?v=kCpG3_nbL0Y'>here</a>",
+        "c": "Explanation 2 ",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+
+    {
+      "question": "Bulking of fine aggregate cam be minimized by _______ ",
+      "answers": {
+        "a": "Compaction ",
+        "b": "Using well graded sand  ",
+        "c": "Using larger sized particles ",
+        "d": "Adding more water"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 <a href='https://www.youtube.com/watch?v=kCpG3_nbL0Y'>here</a>",
+        "c": "Explanation 2 ",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+
+    {
+      "question": "What is formula for calculating bulking of sand? H1 is the height of loose sand and H2 is the height of saturated sand.  ",
+      "answers": {
+        "a": "[(H2-H1)/ H2] × 100  ",
+        "b": "[(H1-H2)/ H1] × 100  ",
+        "c": "[(H1-H2)/ H2] × 100 ",
+        "d": "[(H2-H1)/ H1] × 100 "
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 ",
+        "c": "Explanation 2 <a href='https://www.youtube.com/watch?v=kCpG3_nbL0Y'>here</a>",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "Advanced"
+    }, 
+    
+    {
+      "question": "What is formula for calculating bulking of sand? H1 is the height of loose sand and H2 is the height of saturated sand.  ",
+      "answers": {
+        "a": "5%",
+        "b": "2%",
+        "c": "6%",
+        "d": "4% "
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 ",
+        "c": "Explanation 2",
+        "d": "Explanation 2  <a href='https://www.youtube.com/watch?v=kCpG3_nbL0Y'>here</a>"
+      },
+      "correctAnswer": "d",
+      "difficulty": "Advanced"
+    }
+
+  ]
+}
+
+
+
+
+
+    
+
+   

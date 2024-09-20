@@ -1,0 +1,107 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Bulking of fine aggregate refers to",
+      "answers": {
+        "a": "Expansion of coarse particles ",
+        "b": "Decrease in volume due to compaction",
+        "c": "Increase in volume due to absorption of water content ",
+        "d": "Change in size and shape of of particles"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2 <a href='https://www.youtube.com/watch?v=kCpG3_nbL0Y'>here</a>",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Completely dry sand shows more increase in its volume?",
+      "answers": {
+        "a": "True",
+        "b": "False"
+        
+      },
+      "explanations": {
+        "a": "Explanation 1  ",
+        "b": "Explanation 2 <a href=''>here</a>"
+        
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "Bulking of sand first increases and then decreases with an increase in water content.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+        
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='https://www.youtube.com/watch?v=VEpbjOrSs8Q'>here</a>",
+        "b": "Explanation 2 "
+        
+      },
+      "correctAnswer": "a",
+      "difficulty": "Intermediate"
+    },
+
+    {
+      "question": "What is the relationship between the bulking and the size of the particle? ",
+      "answers": {
+        "a": "Directly proportional",
+        "b": "Inversely proportional",
+        "c": "Increases first and then decreases",
+        "d": "None of the above "
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 <a href='https://www.youtube.com/watch?v=8tHyMGJNATg'>here</a>",
+        "c": "Explanation 2 ",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Intermediate"
+    },
+
+    {
+      "question": "Bulking of sand may change the Water-Cement ratio in concrete.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+        
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='https://www.youtube.com/watch?v=VEpbjOrSs8Q'>here</a>",
+        "b": "Explanation 2 "
+        
+      },
+      "correctAnswer": "a",
+      "difficulty": "Advanced"
+    },
+
+    {
+      "question": "Bulking of sand is not dependent on _____  ",
+      "answers": {
+        "a": "Sand texture",
+        "b": "Particle size ",
+        "c": "Volume of sand",
+        "d": "Specific gravity"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 ",
+        "c": "Explanation 2 ",
+        "d": "Explanation 2 <a href='https://www.youtube.com/watch?v=VEpbjOrSs8Q'>here</a>"
+      },
+      "correctAnswer": "d",
+      "difficulty": "Advanced"
+    }
+
+    
+  ]
+}
