@@ -1,2 +1,2 @@
 
-## Bulking of a given sample
+## Bulking of fine aggregates
