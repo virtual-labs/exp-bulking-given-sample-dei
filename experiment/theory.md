@@ -12,16 +12,18 @@ To account for bulking in construction practices, engineers and concrete mix des
 
 The formula for calculating the bulking of sand is:
 
-**1. Percentage bulking of sand = [(H - H')/H'] × 100**
+**1. Percentage bulking of sand:**
+
+Percentage bulking of sand = [(H - H') / H'] × 100
 
 Where:
-- **H** = height of loose damp sand (cm)
-- **H'** = height of saturated/inundated sand (cm)
+- H = height of loose damp sand (cm)
+- H' = height of saturated/inundated sand (cm)
 
 **2. Alternative Formula (Measuring Cylinder Method):**
 
-Percentage bulking = [(200 - y)/y] × 100
+Percentage bulking = [(200 - y) / y] × 100
 
 Where:
-- **200** = initial volume of loose sand in cylinder (ml)
-- **y** = final volume of saturated sand after adding water (ml)
+- 200 = initial volume of loose sand in cylinder (ml)
+- y = final volume of saturated sand after adding water (ml)
