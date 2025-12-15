@@ -1,14 +1,50 @@
 ### Procedure
+Step 1: Start the Experiment  
+Click the Next Step button to begin the experiment.
 
-1. Collect the sand sample in a container.
-2. Take a measuring cylinder and fill its 2/3 part with the collected sand sample.
-3. Gently level off the top surface of sand using a steel ruler.
-4. Measure the height of loose sand and note it down.
-5. Transfer the sand from the measuring cylinder into a cleaned beaker.
-6. Refill half of the cylinder with water.
-7. Pour the sand from the beaker into the cylinder. Add it in 3 parts.
-8. Stir the poured sand in the cylinder gently with a tamping rod having a diameter of 6 mm.
-9. Level the top surface of the inundated sand carefully and note down the reading.
-10. Perform the same procedure for two more samples of sand. The average of three observations gives the bulkage of sand in percentage.  
+Step 2: Filling the Measuring Cylinder  
+- Click on the measuring cylinder.  
+- Click on the funnel placed over the cylinder.  
+- Click on the sand container to fill sand into the cylinder.  
+- Click Next Step to proceed.
 
- 
+Step 3: Leveling the Sand  
+- Click on the scale/ruler to lift it.  
+- Click on the top surface of the sand to level it.  
+- Click Next Step.
+
+Step 4: Preparation for Pouring  
+Click Next Step to arrange the setup for pouring.
+
+Step 5: Transferring Sand  
+- Click on the measuring cylinder to pour sand into the beaker.  
+- Click Next Step.
+
+Step 6: Filling Water  
+- Click on the water source to fill water into the measuring cylinder.  
+- Click Next Step.
+
+Step 7: Mixing Process  
+- Click on the beaker to move it to the correct position.  
+- Click Pick Rod.  
+- Click on the rod to stir the mixture.  
+- Lift the beaker when instructed.  
+- Repeat stirring as guided.  
+- Click Next Step to continue.
+
+Step 8: Sample Collection  
+- Click Second Sample.  
+- Click Third Sample.  
+- Click Next Step.
+
+Step 9: Observations  
+- Click First Sample Reading.  
+- Click Second Sample Reading.  
+- Click Third Sample Reading.  
+- Click Note Percentage (%).
+
+Step 10: Conclusion  
+Click Conclusion to view the result.
+
+Final Step: Post Test  
+Click Post Test to complete the experiment.
