@@ -1,50 +1,83 @@
-### Procedure
-Step 1: Start the Experiment  
-Click the Next button to begin the experiment.
+#### Step 1: Start the Experiment <br>
 
-Step 2: Filling the Measuring Cylinder  
-- Click on the measuring cylinder.  
-- Click on the funnel placed over the cylinder.  
-- Click on the sand container to fill sand into the cylinder.  
-- Click Next to proceed.
+• Click the Next button to begin the experiment.
+<br><img src="procedure_images/1.png" alt="procedure" width="500"><br>
 
-Step 3: Leveling the Sand  
-- Click on the scale/ruler to lift it.  
-- Click on the top surface of the sand to level it.  
-- Click Next.
+#### Step 2: Filling the Measuring Cylinder<br>
 
-Step 4: Preparation for Pouring  
-Click Next to arrange the setup for pouring.
+• Click on the measuring cylinder.
+<br><img src="procedure_images/2.1.png" alt="procedure" width="500"><br>
 
-Step 5: Transferring Sand  
-- Click on the measuring cylinder to pour sand into the beaker.  
-- Click Next.
+• Click on the funnel placed over the cylinder.<br>
+• Click on the sand container to fill sand into the cylinder.
+<br><img src="procedure_images/2.2.png" alt="procedure" width="500"><br>
 
-Step 6: Filling Water  
-- Click on the water source to fill water into the measuring cylinder.  
-- Click Next.
+• Click Next to proceed.<br>
 
-Step 7: Mixing Process  
-- Click on the beaker to move it to the correct position.  
-- Click Pick Rod.  
-- Click on the rod to stir the mixture.  
-- Lift the beaker when instructed.  
-- Repeat stirring as guided.  
-- Click Next to continue.
+#### Step 3: Leveling the Sand <br>
 
-Step 8: Sample Collection  
-- Click Second Sample.  
-- Click Third Sample.  
-- Click Next.
+• Click on the scale/ruler to lift it.
+<br><img src="procedure_images/3.1.png" alt="procedure" width="500"><br>
 
-Step 9: Observations  
-- Click First Sample Reading.  
-- Click Second Sample Reading.  
-- Click Third Sample Reading.  
-- Click Note Percentage (%).
+• Click on the top surface of the sand to level it.
+<br><img src="procedure_images/3.2.png" alt="procedure" width="500"><br>
 
-Step 10: Conclusion  
-Click Conclusion to view the result.
+• Click Next.<br>
 
-Final Step: Post Test  
-Click Post Test to complete the experiment.
+#### Step 4: Preparation for Pouring <br>
+
+• Click Next to arrange the setup for pouring.<br>
+
+#### Step 5: Transferring Sand <br>
+
+• Click on the measuring cylinder to pour sand into the beaker.
+<br><img src="procedure_images/5.1.png" alt="procedure" width="500"><br>
+
+• Click Next.<br>
+
+#### Step 6: Filling Water
+
+• Click on the water source to fill water into the measuring cylinder.
+<br><img src="procedure_images/6.1.png" alt="procedure" width="500"><br>
+
+• Click Next.<br>
+
+#### Step 7: Mixing Process <br>
+
+• Click on the beaker to move it to the correct position.
+<br><img src="procedure_images/7.1.png" alt="procedure" width="500"><br>
+
+• Click Pick Rod.
+<br><img src="procedure_images/7.2.png" alt="procedure" width="500"><br>
+
+• Click on the rod to stir the mixture.
+<br><img src="procedure_images/7.3.png" alt="procedure" width="500"><br>
+
+• Lift the beaker when instructed.
+<br><img src="procedure_images/7.4.png" alt="procedure" width="500"><br>
+
+• Repeat stirring as guided.<br>
+• Click Next to continue.<br>
+
+#### Step 8: Sample Collection <br>
+
+• Click Second Sample.
+<br><img src="procedure_images/8.1.png" alt="procedure" width="500"><br>
+
+• Similarly, click Third Sample.<br>
+• Click Next.<br>
+
+#### Step 9: Observations <br>
+
+• Click First Sample Reading.<br>
+• Click Second Sample Reading.<br>
+• Click Third Sample Reading.<br>
+• Click Note Percentage (%).<br>
+
+#### Step 10: Conclusion <br>
+
+• Click Conclusion to view the result.<br>
+
+#### Final Step: Post Test <br>
+
+• Click Post Test to complete the experiment.<br>
