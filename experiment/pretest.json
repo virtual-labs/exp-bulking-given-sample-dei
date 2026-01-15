@@ -100,6 +100,78 @@
       },
       "correctAnswer": "d",
       "difficulty": "Advanced"
+    },
+
+    {
+      "question": "Fine sand exhibits greater bulking compared to coarse sand because",
+      "answers": {
+        "a": "Fine sand particles are harder",
+        "b": "Fine sand has larger surface area and retains more water films between particles",
+        "c": "Fine sand is heavier than coarse sand",
+        "d": "Fine sand is less dense than coarse sand"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 <a href='https://www.youtube.com/watch?v=kCpG3_nbL0Y'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Intermediate"
+    },
+
+    {
+      "question": "When sand becomes completely saturated with water, the bulking of sand will",
+      "answers": {
+        "a": "Increase further",
+        "b": "Decrease and approach zero",
+        "c": "Remain constant",
+        "d": "Increase indefinitely"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 <a href='https://www.youtube.com/watch?v=kCpG3_nbL0Y'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Intermediate"
+    },
+
+    {
+      "question": "The bulking of sand is a critical consideration in concrete design because it affects",
+      "answers": {
+        "a": "Only the color of concrete",
+        "b": "The actual quantity of sand needed to maintain the designed mix proportions",
+        "c": "The curing time of concrete",
+        "d": "The cost of cement only"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 <a href='https://www.youtube.com/watch?v=kCpG3_nbL0Y'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Advanced"
+    },
+
+    {
+      "question": "Which method is used to measure the bulking of sand in the laboratory?",
+      "answers": {
+        "a": "Sieve analysis only",
+        "b": "Comparison of volumes of loose sand and saturated surface dry sand",
+        "c": "Measuring the weight change of sand",
+        "d": "Visual inspection method"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2 <a href='https://www.youtube.com/watch?v=kCpG3_nbL0Y'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Advanced"
     }
 
     
