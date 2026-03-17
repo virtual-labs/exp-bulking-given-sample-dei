@@ -122,6 +122,45 @@
       },
       "correctAnswer": "d",
       "difficulty": "Advanced"
+    },
+
+    {
+      "question": "At what moisture content does sand experience maximum bulking?",
+      "answers": {
+        "a": "2-3%",
+        "b": "5-8%",
+        "c": "15-20%",
+        "d": "Above 25%"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+
+    {
+      "question": "Which of the following is NOT an effect of sand bulking in concrete construction?",
+      "answers": {
+        "a": "Reduction in concrete compressive strength",
+        "b": "Increase in water-cement ratio",
+        "c": "Improved workability of fresh concrete",
+        "d": "Variation in concrete mix design"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "Advanced"
+    },
+
+    {
+      "question": "The bulking of sand is dependent on ______",
+      "answers": {
+        "a": "Only the type of sand",
+        "b": "Only the moisture content",
+        "c": "The grain size and moisture content of sand",
+        "d": "Only the compaction method used"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
     }
 
   ]
