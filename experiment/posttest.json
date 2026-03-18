@@ -48,7 +48,7 @@
         "c": "Explanation 2 ",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "intermediate"
     },
 
@@ -107,7 +107,7 @@
     }, 
     
     {
-      "question": "What is formula for calculating bulking of sand? H1 is the height of loose sand and H2 is the height of saturated sand.  ",
+      "question": "What is the moisture content at which maximum bulking of sand occurs?",
       "answers": {
         "a": "5%",
         "b": "2%",
@@ -120,7 +120,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2  <a href='https://www.youtube.com/watch?v=kCpG3_nbL0Y'>here</a>"
       },
-      "correctAnswer": "d",
+      "correctAnswer": "a",
       "difficulty": "Advanced"
     },
 

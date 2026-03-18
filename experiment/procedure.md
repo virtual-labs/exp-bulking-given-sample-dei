@@ -74,7 +74,12 @@
 • Click Third Sample Reading.<br>
 • Click Note Percentage (%).<br>
 
-#### Step 10: Conclusion <br>
+#### Step 10: Plotting the Bulking Curve <br>
+
+• Using the recorded percentage bulking values and their corresponding moisture contents from the three samples, plot a graph with Moisture Content (%) on the x-axis and Percentage Bulking (%) on the y-axis.<br>
+• The curve typically shows maximum bulking at around 4-6% moisture content.<br>
+
+#### Step 11: Conclusion <br>
 
 • Click Conclusion to view the result.<br>
 
