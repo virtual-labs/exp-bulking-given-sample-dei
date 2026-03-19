@@ -1,0 +1,99 @@
+.Mainstep{
+    visibility: visible;
+    z-index: 1000;
+}
+
+.circlebg{
+
+    position: absolute; 
+    top: 26px; 
+    left: 55px;
+}
+
+.incanvas{
+
+    font-size:18px;
+    position: relative;
+    top: -10px;
+}
+
+.incanvas1{
+
+    font-size:18px;
+    position: relative;
+}
+
+
+.button{
+    position:absolute; 
+    left:680px; 
+    top:490px; 
+    text-align: center;
+    cursor:pointer; 
+    font-size: 15px; 
+    font-weight: 600; 
+    background-color: rgb(20, 117, 228);
+    padding: 10px 15px; 
+    color: #FFF; 
+    border: none;
+    border-radius: 4px;
+}
+/* ================================
+   RESPONSIVE SCALING — STEP 2 FINAL
+   ================================ */
+
+.sim-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+/* MOBILE */
+@media (max-width: 575px) {
+  .simulation-container {
+    zoom: 40%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* SMALL DEVICES */
+@media (min-width: 576px) and (max-width: 767px) {
+  .simulation-container {
+    zoom: 65%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* TABLETS */
+@media (min-width: 768px) and (max-width: 991px) {
+  .simulation-container {
+    zoom: 80%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* SMALL DESKTOP */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .simulation-container {
+    zoom: 90%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* LANDSCAPE FIX */
+@media (max-width: 767px) and (orientation: landscape) {
+  .simulation-container {
+    zoom: 55%;
+  }
+}
+
+/* SAFETY */
+body {
+  overflow-x: hidden;
+}
